@@ -1,0 +1,89 @@
+body{
+    background-image: url(./Marauders-Map-Prop-Replica-Mapa-Maroto-01.jpg);
+    background-repeat:repeat;
+    background-size: 100%;
+}
+
+.my-col{
+    text-align: center;
+    
+}
+
+.my-col-2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    text-align: center;
+    color: goldenrod;
+}
+
+.my-class-1{
+    text-align: center;
+    background-color: #7f090985;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #ffc500;
+    color: #ffc500;
+}
+
+.my-class-2{
+    text-align: center;
+    background-color: #1a472a85;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid silver;
+    color: silver;
+}
+
+.my-class-3{
+    text-align: center;
+    background-color: #000a9085;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #946b2d;
+    color: #946b2d;
+}
+
+.my-class-4{
+    text-align: center;
+    background-color: #eee01785;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    color: black;
+}
+
+.my-about{
+    text-align: center;
+    background-color: #dad4b595;
+    border: 1px solid #952323;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.my-about-2{
+    text-align: left;
+    background-color: #dad4b595;
+    border: 1px solid #952323;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.my-video{
+    text-align: center;
+    background-color: #dad4b595;
+    border: 1px solid #952323;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.my-video-2{
+    background-color: #dad4b595;
+    border: 1px solid #952323;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.my-forms{
+    text-align: center;
+    color: goldenrod;
+}
+
+.my-forms-2{
+    text-align: center;
+    color: goldenrod;
+}
